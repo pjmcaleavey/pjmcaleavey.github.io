@@ -2683,7 +2683,7 @@ ul li {
   clear: both;
 }
 
-.z-depth-0 {
+/*.z-depth-0 {
   box-shadow: none !important;
 }
 
@@ -2709,7 +2709,7 @@ ul li {
 
 .z-depth-5 {
   box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
-}
+}*/
 
 .hoverable {
   transition: box-shadow .25s;
